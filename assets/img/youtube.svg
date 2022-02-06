@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 576 512"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="youtube.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="980"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="322.71187"
+     inkscape:cy="467.61183"
+     inkscape:window-x="0"
+     inkscape:window-y="48"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 551.14559,79.638434 C 545.13182,47.437019 526.83628,22.076196 503.41071,13.469635 460.95049,-2.1694923 290.16949,-2.1694923 290.16949,-2.1694923 c 0,0 -170.78,0 -213.500784,15.6391273 C 53.100271,22.077555 34.383819,47.437019 27.835588,79.638434 15.939215,138.00536 14.928616,259.78253 14.928616,259.78253 c 0,0 -1.010599,121.77718 9.917028,180.1441 6.013768,32.20141 24.318074,56.50565 47.74365,65.11221 42.461216,15.63913 213.241216,15.63913 213.241216,15.63913 0,0 170.78,0 213.50078,-15.63913 23.56843,-8.60656 42.27612,-32.9108 48.82435,-65.11221 11.89638,-58.36692 12.90698,-180.1441 12.90698,-180.1441 0,0 1.01059,-121.77717 -9.91703,-180.144096 z M 231.22307,370.34707 233.05816,149.21799 374.87959,259.78526 Z"
+     id="path2"
+     style="fill:#404040;stroke-width:1.16686833"
+     inkscape:connector-curvature="0" />
+</svg>
